@@ -8,5 +8,9 @@
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-    background-color: black;
 }
+
+.button4 {background-color: blue; color: black;}
+.button1 {background-color: #00ff00;}
+.button2 {background-color: #FF0000; color: black;}
+.button3 {background-color: yellow;}
